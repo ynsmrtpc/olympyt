@@ -1,5 +1,4 @@
-```markdown
-# My Expo Uygulaması
+# O lympyt Uygulaması
 
 Bu Expo uygulaması, React Native kullanılarak geliştirilmiştir.
 
