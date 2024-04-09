@@ -1,11 +1,12 @@
-# O lympyt Uygulaması
+# Olympyt Uygulaması
 
 Bu Expo uygulaması, React Native kullanılarak geliştirilmiştir.
 
 ## Gereksinimler
 
 - [Node.js](https://nodejs.org/) kurulu olmalıdır.
-- [Expo CLI](https://docs.expo.dev/get-started/installation/) yüklü olmalıdır.
+- [Android Studio](https://developer.android.com/studio?hl=tr) yüklü olmalıdır. (Android İçin)
+- [XCode](https://apps.apple.com/us/app/xcode/id497799835?mt=12/) yüklü olmalıdır. (IOS İçin - Yalnızca MACOS)
 
 ## Yükleme
 
@@ -37,10 +38,3 @@ Lokalde uygulamayı çalıştırmak için:
    - iOS simülasyonu için `i` tuşuna basın (yalnızca Mac kullanıyorsanız). Expo, lokalde bir iOS simülasyonu başlatacaktır.
 
 2. Ayrıca, Expo Go uygulaması ile de uygulamayı test edebilirsiniz. Expo Go uygulamasını cihazınıza yükleyin ve QR kodu tarayarak veya IP adresi ile uygulamayı görüntüleyin.
-
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için [LICENSE.md](LICENSE.md) dosyasına bakabilirsiniz.
-```
-
-Bu `README.md` dosyası, Expo uygulamanızı çalıştırmak ve test etmek için gereken adımları açıklamaktadır. Ayrıca projenin nasıl yükleneceği ve lokalde nasıl çalıştırılacağı hakkında bilgiler içermektedir. Ayrıca projenin MIT lisansı altında lisanslandığını belirtmektedir. Bu örneği kullanarak kendi Expo projenizin `README.md` dosyasını oluşturabilir ve projenizi daha iyi tanıtabilirsiniz.
